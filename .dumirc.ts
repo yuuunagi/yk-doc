@@ -1,11 +1,11 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  base: '/doc/',
-  publicPath: '/doc/',
+  base: '/yk-doc/',
+  publicPath: '/yk-doc/',
   themeConfig: {
     name: 'DOC',
-    logo: '/doc/doc-logo.png',
+    logo: '/yk-doc/doc-logo.png',
     footer: false,
   },
   styles: [
