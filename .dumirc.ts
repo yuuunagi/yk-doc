@@ -4,7 +4,8 @@ export default defineConfig({
   base: '/yk-doc/',
   publicPath: '/yk-doc/',
   themeConfig: {
-    name: 'DOC',
+    tocDepth: 6,
+    name: '特殊物品知识库',
     logo: '/yk-doc/doc-logo.png',
     footer: false,
   },
@@ -34,5 +35,5 @@ export default defineConfig({
       height:20px;	
     }
   `,
-  ],
+  ],  
 });
