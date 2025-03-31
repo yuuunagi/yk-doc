@@ -7,7 +7,7 @@
     "dev": "dumi dev",
     "build": "dumi build",
     "preview": "dumi preview",
-    "prepare": "husky install && dumi setup"
+    "prepare": "dumi setup"
   },
   "authors": [],
   "license": "MIT",
