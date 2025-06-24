@@ -1,0 +1,13 @@
+diff --git a/dist/slots/Header/Navigation.js b/dist/slots/Header/Navigation.js
+index a7ec5234746afe64f1e7a906eea34a363f7773f5..af634685bdd5c6a3edb842e340c5bea734b0f454 100644
+--- a/dist/slots/Header/Navigation.js
++++ b/dist/slots/Header/Navigation.js
+@@ -53,7 +53,7 @@ var HeaderNavigation = function HeaderNavigation(props) {
+   var createMenuItems = function createMenuItems(navs) {
+     return navs.map(function (navItem) {
+       var _navItem$link;
+-      var linkKeyValue = ((_navItem$link = navItem.link) !== null && _navItem$link !== void 0 ? _navItem$link : '').split('/').slice(0, 2).join('/');
++      var linkKeyValue = ((_navItem$link = navItem.link) !== null && _navItem$link !== void 0 ? _navItem$link : (navItem.activePath ? navItem.activePath + '/' : '')).split('/').slice(0, -1).join('/');
+       return {
+         label: navItem.children ? navItem.title : isExternalLinks(navItem.link) ? ___EmotionJSX("a", {
+           href: "".concat(navItem.link).concat(search),
