@@ -5,8 +5,8 @@ order: 6
 
 # 同时设置导航名称和顺序，order 越小越靠前，默认为 0
 nav:
-  title: 海关通知
-  order: 1 
+  title: 海关总署文件
+  order: 4
 ---
 
 <!-- markdown body -->

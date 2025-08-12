@@ -1,12 +1,12 @@
 ---
 # 同时设置标题名称和顺序，order 越小越靠前，默认为 0
-title: 海关总署关于印发《进出境特殊物品生物安全风险评估工作规范》的通知
+title: 进出境特殊物品生物安全风险评估工作规范
+order: 1
 
-order：1
 # 同时设置导航名称和顺序，order 越小越靠前，默认为 0
 nav:
-  title: 海关通知
-  order: 1
+  title: 海关总署文件
+  order: 4
 ---
 
 
@@ -18,7 +18,7 @@ nav:
  ### 现将《进出境特殊物品生物安全风险评估工作规范》印发你们, 请遵照执行。执行中遇到问题，请及时向总署卫检司反馈。
    ### 特此通知。
 
-<center><img src="./media_assets/media/1-1.png" alt="1-1" style="zoom:50%;" /></center>
+# <center><img src="./media_assets/media/1-1.png" alt="1-1" style="zoom:50%;" /></center>
 ​              																	
 
 ## 				<center>进出境特殊物品生物安全风险评估工作规范</center>

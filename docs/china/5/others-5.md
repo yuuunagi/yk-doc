@@ -5,7 +5,7 @@ order: 3
 # 同时设置导航名称和顺序，order 越小越靠前，默认为 0
 nav:
   title: 国内其他部委文件
-  order: 1
+  order: 3
 ---
 
 <!-- markdown body -->

@@ -1,0 +1,98 @@
+---
+# 同时设置标题名称和顺序，order 越小越靠前，默认为 0
+title: 附件6-进出境特殊物品风险评估报告
+order: 7
+
+# 同时设置导航名称和顺序，order 越小越靠前，默认为 0
+nav:
+  title: 海关总署文件
+  order: 4
+---
+
+# 		
+
+​																																					
+
+​																																									**（\*）关卫特评20\*\*第【000\*】号**
+
+
+
+
+<table>
+ <col width=94 style='mso-width-source:userset;mso-width-alt:3008;width:71pt'>
+ <col width=69 span=2 style='width:52pt'>
+ <col width=181 style='mso-width-source:userset;mso-width-alt:5802;width:136pt'>
+ <tr height=28 style='height:21.0pt'>
+  <td rowspan=2 height=56 class=xl65 width=94 style='height:42.0pt;width:71pt'>申请单位</td>
+  <td class=xl66 width=69 style='border-left:none;width:52pt'>名称</td>
+  <td colspan=2 class=xl67 width=250 style='border-left:none;width:188pt'><span
+  lang=EN-US>　</span></td>
+ </tr>
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl66 width=69 style='height:21.0pt;border-top:none;
+  border-left:none;width:52pt'>地址</td>
+  <td colspan=2 class=xl67 width=250 style='border-left:none;width:188pt'><span
+  lang=EN-US>　</span></td>
+ </tr>
+ <tr height=57 style='height:42.5pt'>
+  <td height=57 class=xl65 width=94 style='height:42.5pt;border-top:none;
+  width:71pt'>风险评估<font class="font10">形式</font></td>
+  <td colspan=3 class=xl68 width=319 style='border-left:none;width:240pt'>□资料审查<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp; </span>□ 现场评估</td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.5pt'>
+  <td rowspan=2 height=85 class=xl65 width=94 style='height:63.5pt;border-top:
+  none;width:71pt'>风险判定<font class="font10">结果</font></td>
+  <td colspan=2 class=xl68 width=138 style='border-left:none;width:104pt'>特殊物品生物安全风险情况</td>
+  <td class=xl69 width=181 style='border-top:none;border-left:none;width:136pt'>　</td>
+ </tr>
+ <tr height=56 style='mso-height-source:userset;height:42.0pt'>
+  <td colspan=2 height=56 class=xl68 width=138 style='height:42.0pt;border-left:
+  none;width:104pt'>申请方生物安全控制能力</td>
+  <td class=xl69 width=181 style='border-top:none;border-left:none;width:136pt'>　</td>
+ </tr>
+ <tr height=111 style='mso-height-source:userset;height:83.5pt'>
+  <td rowspan=2 height=139 class=xl65 width=94 style='height:104.5pt;
+  border-top:none;width:71pt'>建议的风险管理措施</td>
+  <td colspan=2 class=xl68 width=138 style='border-left:none;width:104pt'>对申请方</td>
+  <td class=xl69 width=181 style='border-top:none;border-left:none;width:136pt'>　</td>
+ </tr>
+ <tr height=28 style='height:21.0pt'>
+  <td colspan=2 height=28 class=xl68 width=138 style='height:21.0pt;border-left:
+  none;width:104pt'>对监管部门</td>
+  <td class=xl69 width=181 style='border-top:none;border-left:none;width:136pt'>　</td>
+ </tr>
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl65 width=94 style='height:21.0pt;border-top:none;
+  width:71pt'>评估结果</td>
+  <td colspan=3 class=xl68 width=319 style='border-left:none;width:240pt'>□通过<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>□不通过<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+ </tr>
+ <tr height=129 style='mso-height-source:userset;height:96.5pt'>
+  <td height=129 class=xl70 style='height:96.5pt;border-top:none'>评估单位</td>
+  <td colspan=3 class=xl71 style='border-left:none'><span lang=EN-US><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span>盖章</span></td>
+ </tr>
+ <tr height=28 style='height:21.0pt'>
+  <td colspan=4 height=28 class=xl72 style='height:21.0pt'>本评估报告有效期自**年*月*日至**年*月*日</td>
+ </tr>
+</table>
+
+
+
+## 		
+
+## 					进出境特殊物品风险评估报告（附表）
+
+​																												**（\*）关卫特评20\*\*第【000\*】号**
+
+------ -------------- -------------- ---------- ---------- ---------- ---------- ---------- -------- ----------
+| 序号 | 产品中文名称 | 产品英文名称 | 产品类别 | 产品规格 | 产品数量 | 产品成分 | 产品用途 | 生产商 | 生产地址 |
+| :--- | :----------: | :----------: | :------: | -------- | -------- | -------- | -------- | ------ | -------- |
+|      |              |              |          |          |          |          |          |        |          |
+|      |              |              |          |          |          |          |          |        |          |
+|      |              |              |          |          |          |          |          |        |          |
+
+------ -------------- -------------- ---------- ---------- ---------- ---------- ---------- -------- ----------
