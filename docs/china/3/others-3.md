@@ -10,9 +10,9 @@ nav:
 
 <!-- markdown body -->
 
-**国卫科教发〔2023〕24号**
+国卫科教发〔2023〕24号
 
-各省、自治区、直辖市及新疆生产建设兵团卫生健康委，委机关各司局，委直属和联系单位：
+**各省、自治区、直辖市及新疆生产建设兵团卫生健康委，委机关各司局，委直属和联系单位：
 
 为加强与人体健康有关的病原微生物实验室生物安全管理，规范病原微生物实验活动、菌（毒）种和样本运输等行为，根据《中华人民共和国生物安全法》和《病原微生物实验室生物安全管理条例》的规定，我委在《人间传染的病原微生物名录》（卫科教发〔2006〕15号）的基础上，组织制定了《人间传染的病原微生物目录》。现印发给你们，请遵照执行。实施中遇到的问题，请及时反馈我委。
 
@@ -22,7 +22,7 @@ nav:
 
 国家卫生健康委
 
-2023年8月18日
+2023年8月18日**
 
 # <center>**人间传染的病原微生物目录**</center>
 
@@ -30,44 +30,44 @@ nav:
 
 **二零二三年八月十八日**
 
-**表1.病毒分类目录**
+## **表1.病毒分类目录**
 
 <table>
  <col width=69 span=13 style='width:52pt'>
  <tr height=21 style='mso-height-source:userset;height:15.5pt'>
-  <td rowspan=3 height=75 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=3 height=75 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   height:56.5pt;width:52pt'>序号</td>
-  <td colspan=3 class=xl7812831 width=207 style='border-right:1.0pt solid black;
+  <td colspan=3 class=xl7812831 width=207 style='border-right:1.0pt ;
   border-left:none;width:156pt'>病毒名称</td>
-  <td rowspan=3 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=3 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   width:52pt'>危害程度分类</td>
-  <td colspan=5 class=xl7812831 width=345 style='border-right:1.0pt solid black;
+  <td colspan=5 class=xl7812831 width=345 style='border-right:1.0pt ;
   border-left:none;width:260pt'>实验活动所需实验室等级</td>
-  <td colspan=2 class=xl7812831 width=138 style='border-right:1.0pt solid black;
+  <td colspan=2 class=xl7812831 width=138 style='border-right:1.0pt ;
   border-left:none;width:104pt'>运输包装分类<font class="font512831"><sup>f</sup></font></td>
-  <td rowspan=3 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=3 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   width:52pt'>备注</td>
  </tr>
  <tr height=35 style='mso-height-source:userset;height:26.5pt'>
-  <td rowspan=2 height=54 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 height=54 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   height:41.0pt;border-top:none;width:52pt'>中文名</td>
-  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'>英文名</td>
-  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'>分类学地位<span lang=EN-US></td>
-  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'></span>病毒培养<font class="font512831"><sup>a</sup></font></td>
-  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'>动物感染实验<font class="font512831"><sup>b</sup></font></td>
-  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'>未经培养的感染材料的操作<font class="font512831"><sup>c</sup></font></td>
-  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'>灭活材料的操作<font class="font512831"><sup>d</sup></font></td>
-  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'>无感染性材料的操作<font class="font512831"><sup>e</sup></font></td>
-  <td rowspan=2 class=xl8012831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl8012831 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'><span lang=EN-US>A/B</span></td>
-  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl7412831 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'>UN编号</td>
  </tr>
  <tr height=19 style='height:14.5pt'>
@@ -2493,7 +2493,7 @@ nav:
   <td class=xl7012831 width=69 style='width:52pt'><span lang=EN-US>　</span></td>
  </tr>
  <tr height=65 style='height:49.0pt'>
-  <td rowspan=2 height=130 class=xl8212831 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 height=130 class=xl8212831 style='border-bottom:1.0pt ;
   height:98.0pt;border-top:none'><span lang=EN-US>150</span></td>
   <td class=xl6612831 width=69 style='width:52pt'>流行性感冒病毒（非<font
   class="font612831">H2N2</font><font class="font712831">流感病毒）</font></td>
@@ -2508,7 +2508,7 @@ nav:
   <td class=xl6912831 width=69 style='width:52pt'><span lang=EN-US>BSL-1</span></td>
   <td class=xl6912831 width=69 style='width:52pt'><span lang=EN-US>B</span></td>
   <td class=xl6912831 width=69 style='width:52pt'><span lang=EN-US>UN3373</span></td>
-  <td rowspan=2 class=xl8312831 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl8312831 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'>包括甲、乙和丙型。根据<font class="font612831">WHO</font><font
   class="font712831">建议，</font><font class="font612831">H2N2</font><font
   class="font712831">亚型病毒应提高防护等级。</font></td>
@@ -2707,7 +2707,8 @@ nav:
 
 
 
-**附录：朊病毒**
+
+### **附录：朊病毒**
 
 <table>
     <tr>
@@ -2718,31 +2719,31 @@ nav:
  <col width=69 span=5 style='width:52pt'>
  <col width=74 style='mso-width-source:userset;mso-width-alt:2368;width:56pt'>
  <tr height=21 style='mso-height-source:userset;height:15.5pt'>
-  <td rowspan=3 height=59 class=xl7015014 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=3 height=59 class=xl7015014 width=69 style='border-bottom:1.0pt ;
   height:44.0pt;width:52pt'>序号</td>
-  <td rowspan=3 class=xl7815014 width=150 style='border-bottom:1.0pt solid black;
+  <td rowspan=3 class=xl7815014 width=150 style='border-bottom:1.0pt ;
   width:113pt'>疾病中文名</td>
-  <td rowspan=3 class=xl7015014 width=83 style='border-bottom:1.0pt solid black;
+  <td rowspan=3 class=xl7015014 width=83 style='border-bottom:1.0pt ;
   width:63pt'>疾病英文名</td>
-  <td rowspan=3 class=xl7015014 width=99 style='border-bottom:1.0pt solid black;
+  <td rowspan=3 class=xl7015014 width=99 style='border-bottom:1.0pt ;
   width:74pt'>危害程度分类</td>
-  <td colspan=3 class=xl7415014 width=207 style='border-right:1.0pt solid black;
+  <td colspan=3 class=xl7415014 width=207 style='border-right:1.0pt ;
   border-left:none;width:156pt'>实验活动所需实验室等级</td>
-  <td colspan=2 class=xl7415014 width=138 style='border-right:1.0pt solid black;
+  <td colspan=2 class=xl7415014 width=138 style='border-right:1.0pt ;
   border-left:none;width:104pt'>运输包装分类<font class="font715014"><sup>f</sup></font></td>
-  <td rowspan=3 class=xl7015014 width=74 style='border-bottom:1.0pt solid black;
+  <td rowspan=3 class=xl7015014 width=74 style='border-bottom:1.0pt ;
   width:56pt'>备<font class="font615014"> </font><font class="font515014">注</font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
-  <td rowspan=2 height=38 class=xl7015014 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 height=38 class=xl7015014 width=69 style='border-bottom:1.0pt ;
   height:28.5pt;border-top:none;width:52pt'>组织培养<span lang=EN-US></td>
-  <td rowspan=2 class=xl7015014 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl7015014 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'>动物感染<span lang=EN-US></td>
-  <td rowspan=2 class=xl7015014 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl7015014 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'>感染性材料的检测</td>
-  <td rowspan=2 class=xl8115014 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl8115014 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'><span lang=EN-US>A/B</span></td>
-  <td rowspan=2 class=xl8115014 width=69 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 class=xl8115014 width=69 style='border-bottom:1.0pt ;
   border-top:none;width:52pt'><span lang=EN-US>UN编号</span></td>
  </tr>
  <tr height=19 style='height:14.5pt'>
@@ -2869,7 +2870,8 @@ nav:
  </tr>
 </table>
 
-**注：**BSL-n/ABSL-n：不同的实验室/动物实验室生物安全防护等级。
+
+### **注**BSL-n/ABSL-n：不同的实验室/动物实验室生物安全防护等级。
 
 a.  病毒培养：指病毒的分离、扩增和利用活病毒培养物的相关实验操作（包括滴定、中和试验、活病毒及其蛋白纯化、核酸提取时裂解剂或灭活剂的加入、病毒冻干、利用活病毒培养物或细胞提取物进行的生化分析、血清学检测、免疫学检测等）以及产生活病毒的重组实验。
 
@@ -2895,7 +2897,7 @@ k.  脊髓灰质炎病毒：这里只是列出一般指导性原则。目前对�
 
 l.  肠道病毒属和心病毒属因型别较多，其生物风险相似，以病毒属代表此类病毒，而同属的不同风险级别的病毒单独列出，如肠道病毒属的脊髓灰质炎病毒，以及我国重要的同属病毒也单独列出，如肠道病毒属的肠道病毒A-71型等。
 
-**说明：**
+### **说明：**
 
 1.  在保证安全的前提下，对临床和现场的未知样本检测操作可在生物安全二级或以上防护级别的实验室进行，涉及病毒分离培养的操作，应加强个体防护和环境保护。要密切注意流行病学动态和临床表现，判断是否存在高致病性病原体，若判定为疑似高致病性病原体，应在相应生物安全级别的实验室开展工作。
 
@@ -2907,7 +2909,7 @@ l.  肠道病毒属和心病毒属因型别较多，其生物风险相似，以�
 
 5\. 国家正式批准的生物制品疫苗生产用减毒、弱毒毒种的分类地位另行规定。
 
-**表2.** **细菌、放线菌、衣原体、支原体、立克次体、螺旋体分类目录**
+## **表2.** **细菌、放线菌、衣原体、支原体、立克次体、螺旋体分类目录**
 
 <table >
  <col width=69 style='width:52pt'>
@@ -7535,7 +7537,7 @@ l.  肠道病毒属和心病毒属因型别较多，其生物风险相似，以�
 
 
 
-**注：**BSL-n/ABSL-n：代表的实验室/动物实验室生物安全防护等级。
+### **注**BSL-n/ABSL-n：代表的实验室/动物实验室生物安全防护等级。
 
 a.  活菌操作：指涉及菌株传代培养、扩增培养的实验活动须在规定的实验室中进行。用于样本检测活动中的培养步骤，按照样本检测要求的实验室等级执行。
 
@@ -7547,7 +7549,7 @@ d.  非感染性材料的实验：如不含致病性活菌材料的分子生物�
 
 e.  运输包装分类：按国际民航组织文件Doc9284《危险品航空安全运输技术细则》的分类包装要求，将相关病原和标本分为A、B两类，对应的联合国编号分别为UN2814和UN3373；A类中传染性物质特指菌株或活菌培养物，应按UN2814的要求包装和空运，其他相关样本和B类的病原和相关样本均按UN3373的要求包装和空运；通过其他交通工具运输的可参照以上标准包装。
 
-**说明：**
+### **说明：**
 
 1\. 在保证安全的前提下，对临床和现场的未知样本的检测可在生物安全二级或以上防护等级的实验室进行。涉及病原菌分离培养的操作，应加强个体防护和环境保护。但此项工作仅限于对样本中病原菌的初步分离鉴定。一旦病原菌初步明确，应按病原微生物的危害类别将其转移至相应等级的实验室开展工作。
 
@@ -7555,7 +7557,7 @@ e.  运输包装分类：按国际民航组织文件Doc9284《危险品航空安
 
 3\. 国家正式批准的生物制品疫苗生产、检定用减毒、弱毒菌种的分类地位另行规定。
 
-**表3.真菌分类目录**
+## **表3.真菌分类目录**
 
 <table >
  <col width=69 style='width:52pt'>
@@ -11331,7 +11333,7 @@ e.  运输包装分类：按国际民航组织文件Doc9284《危险品航空安
  </tr>
 </table>
 
-**注：** BSL-n/ABSL-n：代表不同的实验室/动物实验室生物安全防护等级。
+### **注** BSL-n/ABSL-n：代表不同的实验室/动物实验室生物安全防护等级。
 
 a.  活菌操作：指涉及真菌从样本中分离培养及菌株传代培养、扩增培养的实验活动须在规定的实验室中进行。用于样本检测活动中的培养步骤，按照样本检测要求的实验室等级执行。
 
@@ -11345,7 +11347,7 @@ e.  运输包装分类：按国际民航组织文件Doc9284《危险品航空安
 
 f.  活菌培养操作应加强防护，采取穿戴N95、面屏及防护服等防护措施。
 
-**说明：**
+### **说明：**
 
 1.  在保证安全的前提下，对临床和现场的未知样本的检测可在二级或以上防护等级的生物安全实验室进行。涉及病原菌分离培养的操作，应加强个体防护和环境保护。但此项工作仅限于对样本中病原菌的初步分离鉴定。一旦病原菌初步明确，应按病原微生物的危害类别将其转移至相应等级的实验室开展工作。
 

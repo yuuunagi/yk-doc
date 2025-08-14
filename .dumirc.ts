@@ -5,7 +5,7 @@ export default defineConfig({
   publicPath: '/yk-doc/',
   themeConfig: {
     tocDepth: 6,
-    name: '特殊物品知识库',
+    name: '生物安全技术法规资料库',
     logo: '/yk-doc/doc-logo.png',
     footer: false,
   },
