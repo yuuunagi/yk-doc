@@ -8,6 +8,7 @@ export default defineConfig({
     name: '生物安全技术法规资料库',
     logo: '/yk-doc/doc-logo.png',
     footer: false,
+    docVersions: false,
   },
   styles: [
     `
@@ -35,5 +36,5 @@ export default defineConfig({
       height:20px;	
     }
   `,
-  ],  
+  ],
 });

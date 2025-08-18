@@ -1,5 +1,44 @@
+diff --git a/dist/slots/Header/Logo.js b/dist/slots/Header/Logo.js
+index be9a35103447efd253cba13ac390ecc68a1b05a6..44a852be2ed0c702d254a636a173ffc41b98941b 100644
+--- a/dist/slots/Header/Logo.js
++++ b/dist/slots/Header/Logo.js
+@@ -50,25 +50,6 @@ var Logo = function Logo(_ref2) {
+   return ___EmotionJSX("h1", null, ___EmotionJSX(Link, {
+     to: utils.getLocalizedPathname('/', isZhCN, search),
+     className: s.logo
+-  }, ___EmotionJSX(Popover, {
+-    title: "\uD83C\uDF89\uD83C\uDF89\uD83C\uDF89",
+-    content: "Hover\u89C1\u8BC1\u9B54\u6CD5 \uD83D\uDE09",
+-    placement: "bottomRight",
+-    classNames: {
+-      root: s.tour
+-    },
+-    color: '#1677ff',
+-    open: tour,
+-    onOpenChange: function onOpenChange(v) {
+-      if (v) {
+-        setTour(false);
+-        if (isLocalStorageNameSupported()) {
+-          localStorage.setItem(CHAOS_LOGO_TOUR_DISMISS, '1');
+-        }
+-      } else {
+-        setTour(v);
+-      }
+-    }
+   }, ___EmotionJSX("img", {
+     id: "chaos-logo",
+     className: s.logoImage,
+@@ -81,7 +62,7 @@ var Logo = function Logo(_ref2) {
+         localStorage.setItem(CHAOS_LOGO_TOUR_DISMISS, '1');
+       }
+     }
+-  })), !(themeConfig !== null && themeConfig !== void 0 && themeConfig.name) ? null : ___EmotionJSX("span", {
++  }), !(themeConfig !== null && themeConfig !== void 0 && themeConfig.name) ? null : ___EmotionJSX("span", {
+     className: s.title,
+     dangerouslySetInnerHTML: {
+       __html: (_themeConfig$name = themeConfig === null || themeConfig === void 0 ? void 0 : themeConfig.name) !== null && _themeConfig$name !== void 0 ? _themeConfig$name : ''
 diff --git a/dist/slots/Header/Navigation.js b/dist/slots/Header/Navigation.js
-index a7ec5234746afe64f1e7a906eea34a363f7773f5..af634685bdd5c6a3edb842e340c5bea734b0f454 100644
+index a7ec5234746afe64f1e7a906eea34a363f7773f5..3c777af7de3b6828460e5880b9475aa6b23ab7f5 100644
 --- a/dist/slots/Header/Navigation.js
 +++ b/dist/slots/Header/Navigation.js
 @@ -53,7 +53,7 @@ var HeaderNavigation = function HeaderNavigation(props) {
@@ -11,3 +50,67 @@ index a7ec5234746afe64f1e7a906eea34a363f7773f5..af634685bdd5c6a3edb842e340c5bea7
        return {
          label: navItem.children ? navItem.title : isExternalLinks(navItem.link) ? ___EmotionJSX("a", {
            href: "".concat(navItem.link).concat(search),
+diff --git a/dist/slots/Header/index.js b/dist/slots/Header/index.js
+index 8f78b3f9e3767743e994a09e44f7df79429de58c..5c93077ae154396ab60ebd8996d6705bac8ed742 100644
+--- a/dist/slots/Header/index.js
++++ b/dist/slots/Header/index.js
+@@ -157,7 +157,8 @@ var Header = function Header() {
+     } : {};
+   }, [direction]);
+   var _useUserThemeEnableCo = useUserThemeEnableConfig(),
+-    showDocVersions = _useUserThemeEnableCo.docVersions;
++    // showDocVersions = _useUserThemeEnableCo.docVersions;
++    showDocVersions = false;
+   var menuVisible = headerState.menuVisible,
+     windowWidth = headerState.windowWidth,
+     searching = headerState.searching;
+@@ -224,17 +225,17 @@ var Header = function Header() {
+   }, {
+     flex: 'auto'
+   }] : [{
+-    xxl: 4,
+-    xl: 5,
+-    lg: 6,
+-    md: 6,
++    xxl: 8,
++    xl: 10,
++    lg: 12,
++    md: 12,
+     sm: 24,
+     xs: 24
+   }, {
+-    xxl: 20,
+-    xl: 19,
+-    lg: 18,
+-    md: 18,
++    xxl: 16,
++    xl: 14,
++    lg: 12,
++    md: 12,
+     sm: 0,
+     xs: 0
+   }];
+@@ -259,7 +260,7 @@ var Header = function Header() {
+       flexFlow: 'nowrap',
+       height: 64
+     }
+-  }, ___EmotionJSX(Col, colProps[0], ___EmotionJSX(Logo, _extends({}, sharedProps, {
++  }, ___EmotionJSX(Col, colProps[0],___EmotionJSX(Logo, _extends({}, sharedProps, {
+     location: location
+   }))), ___EmotionJSX(Col, _extends({}, colProps[1], {
+     className: styles.menuCol
+diff --git a/package.json b/package.json
+index 4ba388d06154215355f9656ef0a4994cdd9abf80..1196cb5bd0b3ff3121655db3f15caaa2d3d7f191 100644
+--- a/package.json
++++ b/package.json
+@@ -120,5 +120,10 @@
+     "lint:css": "stylelint \"{src,test}/**/*.{css,less}\"",
+     "lint:es": "eslint \"{src,test}/**/*.{js,jsx,ts,tsx}\"",
+     "start": "cross-env APP_ROOT=example dumi dev"
++  },
++  "pnpm": {
++    "patchedDependencies": {
++      "dumi-theme-chaos@0.0.2-alpha.1": "patches/dumi-theme-chaos@0.0.2-alpha.1.patch"
++    }
+   }
+ }
